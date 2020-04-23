@@ -1,11 +1,4 @@
----
-name: Submit new NEP / Update a NEP
-about: You want to submit a new NEP or update an existing NEP
-title: 'Submit new NEP / Update a NEP-<replace number>'
-labels: ''
-assignees: ''
----
-
+<!--- Change the title: 'Submit new NEP / Update a NEP-<replace number>' -->
 <!--- Only make a request when a NEP is ready -->
 <!--- To finalize a NEP, open an issue instead -->
 
